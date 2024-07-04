@@ -1,0 +1,22 @@
+﻿INSERT INTO Impiegato (IdImpiegato,Nome, Cognome, CodiceFiscale, Eta, RedditoMensile, DetrazioneFiscale, IDImpiego)
+VALUES
+(1,'Rossi', 'Mario', 'RSSMRA80A01H501A', 40, 2500.00, 1, 1),
+(2,'Verdi', 'Luigi', 'VRDLGI75B02F205B', 35, 2800.00, 0, 2),
+(3,'Bianchi', 'Anna', 'BNCHAN85C03G301C', 28, 2200.00, 1, 3),
+(4,'Ferrari', 'Laura', 'FRRRLA90D04I401D', 45, 3000.00, 0, 4),
+(5,'Russo', 'Giuseppe', 'RSSGPP75E05L501E', 50, 3200.00, 1, 5),
+(6,'Esposito', 'Maria', 'ESPMRA82F06M601F', 38, 2700.00, 0, 1),
+(7,'Romano', 'Giovanni', 'RMNGVN79G07N701G', 42, 2900.00, 1, 2),
+(8,'Gallo', 'Roberta', 'GLLRRT83H08O801H', 32, 2400.00, 0, 3),
+(9,'Costa', 'Antonio', 'CSTTNA88I09P901I', 48, 3100.00, 1, 4),
+(10,'Fontana', 'Paola', 'FNTPLA81L10Q001L', 37, 2600.00, 0, 5),
+(11,'Martini', 'Marco', 'MRTMRC76M11R101M', 44, 3000.00, 1, 1),
+(12,'Conti', 'Silvia', 'CNTSLV87N12S201N', 31, 2300.00, 0, 2),
+(13,'Mancini', 'Alessandro', 'MCNALS84O13T301O', 39, 2800.00, 1, 3),
+(14,'Leone', 'Elena', 'LNELNA89P14U401P', 34, 2500.00, 0, 4),
+(15,'Caruso', 'Francesca', 'CRSFNC80Q15V501Q', 47, 3200.00, 1, 5),
+(16,'Greco', 'Davide', 'GRCDVD78R16W601R', 41, 2900.00, 0, 1),
+(17,'Santoro', 'Serena', 'SNTRSN86S17X701S', 33, 2600.00, 1, 2),
+(18,'Lombardi', 'Simone', 'LMBSMN79T18Y801T', 46, 3100.00, 0, 3),
+(19,'Barbieri', 'Valentina', 'BRBVLN82U19Z901U', 36, 2700.00, 1, 4),
+(20,'Moretti', 'Riccardo', 'MRRRCO85V20A001V', 30, 2400.00, 0, 5);
