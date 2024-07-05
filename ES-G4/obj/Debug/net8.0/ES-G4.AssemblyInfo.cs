@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ES-G4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaf1260a23ca5c137562fa47a30df8f258d9bf92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d506208a0fad0fc8729c1629d4fbd9a1b81f4b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ES-G4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ES-G4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
